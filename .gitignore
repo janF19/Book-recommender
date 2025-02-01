@@ -21,3 +21,6 @@ db_books/
 
 # Ignore large datasets that may be generated or cleaned
 *.csv
+
+
+.readmeOld
