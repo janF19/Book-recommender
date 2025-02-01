@@ -1,0 +1,23 @@
+
+
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore IDE configurations (e.g., PyCharm)
+.idea/
+
+# Ignore environment variable file (contains sensitive data like API keys, passwords, etc.)
+.env
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore database or other generated files
+db_books/
+
+# Ignore large datasets that may be generated or cleaned
+*.csv
